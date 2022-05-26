@@ -1,0 +1,17 @@
+{
+  "name": "present-excel",
+  "version": "1.0.0",
+  "description": "taking an excel file from desktop and presnet it on the browser",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chen karmely",
+  "license": "MIT",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "simple-excel-to-json": "^2.3.0",
+    "xlsx": "^0.18.5"
+  }
+}

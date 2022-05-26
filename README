@@ -1,0 +1,7 @@
+please run "npm start" and "npm start" 
+and open http://localhost:8010/ to watch the file
+
+You could update the Calendar.xlxs file and see real time changes in your browser.
+
+This app is modular, you could replace the Calendar.xslx file and you only need to change the file name in the code (lines 9, 48, 54)
+for it to work on any Ms Excel file 
