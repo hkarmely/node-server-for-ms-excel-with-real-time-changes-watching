@@ -1,4 +1,5 @@
-please run "npm start" and "npm start" 
+please install all mode modules by running "npm start" from the root folder
+and then run "npm start" and "npm start" 
 and open http://localhost:8010/ to watch the file
 
 You could update the Calendar.xlxs file and see real time changes in your browser.
